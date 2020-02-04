@@ -47,6 +47,10 @@ Normalmente cada branch corresponde a um **incremento** específico no trabalho(
 
 Ao criar um repositório, começamos com a *branch* **master**, e partimos daí.
 
+Existe, depois, o conceito de **merge**, que consiste em juntar o trabalho de duas *branches* diferentes numa.
+
+No GitHub (e noutros sistemas), podemos fazer um **Pull Request**, que é um pedido para fazer merge *online*. É útil quando trabalhamos numa equipa,  e queremos que as nossas alterações sejam aprovadas por outros.
+
 #### Remote
 
 Repositório/servidor git remoto.
