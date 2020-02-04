@@ -113,3 +113,22 @@ Gerir os repositórios remotos.
 
 1. **Criar conta no GitHub**
 Ir a ao site do [GitHub](https://github.com/) e criar uma conta.
+
+2. **Criar um repositório**
+
+3. **Seguir as instruções para clonar o repositório**
+
+### Usar o GIT localmente
+
+4. **Adicionar informação ao README**.
+Um ficheiro `README.md` é criado por defeito (ou pode ser criado depois). Vamos adicionar alguma coisa a esse ficheiro. Por exemplo: `Primeiro repositório git`.
+
+5. **Fazer commit e push das alterações**
+Usando os comandos `git add -A`, `git commit -m "primeiro commit"` e `git push origin master`, enviamos a informação para o servidor git.
+
+### Usar a integração GIT de um IDE
+
+6. **Clonar o repositório num IDE que tenha integração GIT**
+A maioria dos *Integrated Development Environment*(IDE) têm integração com o git. Se abrirmos os Visual Studio (usado para C#, por exemplo)
+
+No VS, vamos a Team > Manage Connections e vemos uma barra à direita com opções de integração com Git.
