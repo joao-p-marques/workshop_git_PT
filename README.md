@@ -135,15 +135,24 @@ Ir a ao site do [GitHub](https://github.com/) e criar uma conta.
 
 ### Usar o GIT localmente
 
+O git vem instalado por defeito na maioria dos sistemas **linux**.
+Em **Windows**, podem instalar [Git Bash](https://git-scm.com/downloads)(sistema básico para o git) o ou [Windows Subsystem for Linux(WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)(terminal linux no windows, uma boa opção para ter acesso a outros recursos do linux).
+
 4. **Adicionar informação ao README**.
 Um ficheiro `README.md` é criado por defeito (ou pode ser criado depois). Vamos adicionar alguma coisa a esse ficheiro. Por exemplo: `Primeiro repositório git`.
 
 5. **Fazer commit e push das alterações**
 Usando os comandos `git add -A`, `git commit -m "primeiro commit"` e `git push origin master`, enviamos a informação para o servidor git.
 
+### Usar cliente GIT com GUI
+
+Em vez de usar a linha de comandos, podemos usar uma interface gráfica(GUI) para controlar o GIT, como o [GitHub Desktop](https://desktop.github.com/).
+
+Podemos executar os mesmos comandos que na linha de comandos, ou visualizar a informação.
+
 ### Usar a integração GIT de um IDE
 
 6. **Clonar o repositório num IDE que tenha integração GIT**
-A maioria dos *Integrated Development Environment*(IDE) têm integração com o git. Se abrirmos os Visual Studio (usado para C#, por exemplo)
+A maioria dos *Integrated Development Environment*(IDE) têm integração com o git. Se abrirmos os Visual Studio (usado para C#, por exemplo), podemos usá-lo para aceder e usar os repositórios git.podemos usá-lo para aceder e usar os repositórios git.
 
 No VS, vamos a Team > Manage Connections e vemos uma barra à direita com opções de integração com Git.
