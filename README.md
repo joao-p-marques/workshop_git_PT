@@ -110,3 +110,6 @@ Gerir os repositórios remotos.
 `git pull origin master` para obter os commits do remote.
 
 ### GitHub
+
+1. **Criar conta no GitHub**
+Ir a ao site do [GitHub](https://github.com/) e criar uma conta.
