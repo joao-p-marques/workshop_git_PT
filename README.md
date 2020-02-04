@@ -53,6 +53,7 @@ No GitHub (e noutros sistemas), podemos fazer um **Pull Request**, que é um ped
 
 *Nota:*
 Para ver um gráfico com os commits: `git log --graph [--oneline]`
+No site do GitHub: Insights > Network
 
 #### Fork
 
