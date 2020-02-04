@@ -54,6 +54,14 @@ No GitHub (e noutros sistemas), podemos fazer um **Pull Request**, que é um ped
 *Nota:*
 Para ver um gráfico com os commits: `git log --graph [--oneline]`
 
+#### Fork
+
+Quando temos um repositório remoto, podemos fazer um **fork** do mesmo.
+
+Ao fazer isso, vamos criar um repositório que será **nosso**, e uma cópia do repositório do qual fizemos o *fork* no momento.
+
+Através disso, podemos desenvolver à parte do repositório principal, e mais tarde juntar o trabalho. Este sistema é muito usado no desenvolvimento **open source**, onde muitas pessoas (desconhecidas) podem trabalhar no mesmo projeto, e sugerir alterações.
+
 #### Remote
 
 Repositório/servidor git remoto.
