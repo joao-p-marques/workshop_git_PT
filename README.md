@@ -51,6 +51,9 @@ Existe, depois, o conceito de **merge**, que consiste em juntar o trabalho de du
 
 No GitHub (e noutros sistemas), podemos fazer um **Pull Request**, que é um pedido para fazer merge *online*. É útil quando trabalhamos numa equipa, e queremos que as nossas alterações sejam aprovadas por outros.
 
+*Nota:*
+Para ver um gráfico com os commits: `git log --graph`
+
 #### Remote
 
 Repositório/servidor git remoto.
