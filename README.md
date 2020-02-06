@@ -157,3 +157,7 @@ Podemos executar os mesmos comandos que na linha de comandos, ou visualizar a in
 A maioria dos *Integrated Development Environment*(IDE) têm integração com o git. Se abrirmos os Visual Studio (usado para C#, por exemplo), podemos usá-lo para aceder e usar os repositórios git.podemos usá-lo para aceder e usar os repositórios git.
 
 No VS, vamos a Team > Manage Connections e vemos uma barra à direita com opções de integração com Git.
+
+## Apresentação
+
+https://docs.google.com/presentation/d/1W0fvYMl_MIJtybgQQwFNfe9hHGMmfYmyg7-a2wSd3uQ/edit?usp=sharing
